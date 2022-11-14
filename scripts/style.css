@@ -1,0 +1,29 @@
+body {
+	font-size: 1em;
+    font-family: sans-serif;
+}
+
+.dataframe {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.dataframe thead tr {
+    background-color: #009879;
+    color: #ffffff;
+}
+
+.dataframe th,
+.dataframe td {
+    padding: 12px 15px;
+}
+
+
+img{
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+}
