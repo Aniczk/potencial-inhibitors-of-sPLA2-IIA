@@ -7,6 +7,7 @@ Badania wskazują na znaczenie ludzkiej fosfolipazy A2 podczas sztormu cytokinow
 Sekwencje potencjalnych inhibitorów wybrane do analizy: **FLSYK, HDMNKVLDL, LAIYS, VDIHVWDGV (pip9), LGRVDIHVWDGVYIRGR (pip17) i VDIHVWDGVVDIHVWDGV (pip18)**.
 
 Ligandy reprezentujące fosfolipazę A2:
+
 **1bbc_AF2_rel_m1** – wynik zwinięcia programem AF2 sekwencji znajdującej się  w rekordzie 1bbc w bazie PDB; skrót rel oznacza, że model został poddany relaksacji, natomiast m1 to oznaczenia modelu, który w AF2 miał największą wartość  pLDDT, czyli był najwyżej oceniony przez program
 
 **1bbc_AF2_unrel_m1** – jak wyżej; różnica polega na tym, że struktura nie została poddana relaksacji w polu siłowym Amber
