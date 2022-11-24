@@ -1,0 +1,26 @@
+CABS-dock simulation results. Kolinski's lab homepage: http://biocomp.chem.uw.edu.pl
+======================-oo8OO8oo-====================================================
+              job_identifier : db1acff7c63e9b4
+                project_name : prekursorowa_rel_m3_VDIHVWDGV
+           receptor_sequence : MKTLLLLAVIMIFGLLQAHGNLVNFHRMIKLTTGKEAALSYGFYGCHCGVGGRGSPKDATDRCCVTHDCCYKRLEKRGCGTKFLSYKFSNSGSRITCAKQDSCRSQLCECDKAAATCFARNKTTYNKKYQYYSNKHCRGSTPRC
+             ligand_sequence : VDIHVWDGV
+                   ligand_ss : CCCEEECCC
+                 macrocycles : 50
+                   submitted : 2022-10-24 07:30:19
+                    finished : 2022-10-24 11:57:02
+
+flexible regions:
+
+excluded regions:
+
+LEGEND:
+input.pdb        - input structure of the receptor
+trajectory_*.pdb - trajectories in CA-only representation
+cluster_*.pdb    - models grouped into clusters in CA-only representation
+model_*.pdb      - final models in all-atom representation
+top1000.pdb      - top 1000 models
+energy.txt       - log file from the simulation with energy and its distribution;
+                   following columns contain:
+                   replica frame temperature Energy(receptor) Energy(ligand)
+                   Energy(interaction) Energy(total)
+        
