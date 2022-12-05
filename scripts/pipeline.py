@@ -214,7 +214,6 @@ def main():
                 v = int(df_ligands.loc[ligands[i]])
                 df_ligands.loc[ligands[i]] = v+1
     plot_number_of_interactions(df_ligands)
-    print(datas2)
 
     plot_positions_contact(datas2, 'AALSYGFYG', L2, 'oligomers_reg')
     plot_positions_contact(datas3, 'CGVGG', L3, 'Ca_binding_site')
