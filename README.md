@@ -1,6 +1,6 @@
-# potencial-inhibitors-of-sPLA2-IIA
+# Potencial inhibitors of sPLA2-IIA
 
-## Najważniejsze informacje:
+## Najważniejsze informacje
 
 Znajdujący się w repozytorium kod jest częścią pracy magisterskiej pt. "Analiza roli fosfolipazy A2 i jej potencjalnych inhibitorów w rozwoju infekcji spowodowanej wirusem SARS-CoV-2" (ang. 'Analysis of the role of phospholipase A2 and its potential inhibitors in the development of infection caused by SARS-CoV-2 virus')
 
